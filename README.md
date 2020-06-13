@@ -26,7 +26,7 @@ Once you click it, your browser should look something like this:
 
 If the button doesn't appear to work for you (it opens up blank), go [here](https://learn.co/account/environment) and set your learning environment to "IDE in browser".
 
-When you run your tests, just type `learn` into the bottom of the three boxes which is a terminal for you to use with the in-browser IDE. Once your tests are passing, type `learn submit` there to tell us that you're done!
+When you run your tests, just type `learn` into the bottom of the three boxes which is a terminal for you to use with the in-browser IDE. Once your tests are passing, type `learn submit` there to tell us that you're done!!!!!!
 
 
 ## Instructions
